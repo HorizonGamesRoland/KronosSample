@@ -4,6 +4,10 @@
 	"Category": "",
 	"Description": "",
 	"Plugins": [
+		{
+			"Name": "Kronos",
+			"Enabled": true
+		}
 	],
 	"TargetPlatforms": [
 		"Android",
