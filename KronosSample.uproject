@@ -7,6 +7,10 @@
 		{
 			"Name": "Kronos",
 			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
