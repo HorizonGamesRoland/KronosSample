@@ -6,7 +6,8 @@
 	"Plugins": [
 		{
 			"Name": "Kronos",
-			"Enabled": true
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3bb715b171684d23b2794bc34cb0a7da"
 		},
 		{
 			"Name": "OnlineSubsystemSteam",
@@ -207,9 +208,6 @@
 		"Linux",
 		"Mac",
 		"Windows",
-		"WindowsNoEditor",
-		"LinuxNoEditor",
-		"AllDesktop",
-		"MacNoEditor"
+		"WindowsNoEditor"
 	]
 }
