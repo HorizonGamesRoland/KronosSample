@@ -222,6 +222,10 @@
 		{
 			"Name": "NullSourceCodeAccess",
 			"Enabled": false
+		},
+		{
+			"Name": "EnhancedInput",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
