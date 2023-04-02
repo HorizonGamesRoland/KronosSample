@@ -202,11 +202,25 @@
 		{
 			"Name": "ArchVisCharacter",
 			"Enabled": false
+		},
+		{
+			"Name": "IOSDeviceProfileSelector",
+			"Enabled": false
+		},
+		{
+			"Name": "MacGraphicsSwitching",
+			"Enabled": false
+		},
+		{
+			"Name": "LinuxDeviceProfileSelector",
+			"Enabled": false
+		},
+		{
+			"Name": "NullSourceCodeAccess",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
-		"Linux",
-		"Mac",
 		"Windows",
 		"WindowsNoEditor"
 	]
